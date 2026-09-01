@@ -1,5 +1,7 @@
 ### Hi, I'm Remzije 👋
 
+🌐 **Portfolio:** [remzije-sulejmanoska.github.io](https://remzije-sulejmanoska.github.io)
+
 Computer Science graduate focused on **Machine Learning, Data Science, Explainable AI, and Trustworthy AI**. I'm interested in how we make ML models not just accurate, but interpretable, auditable, and privacy-aware — and I like taking that from theory (formal specs, thesis-level analysis) all the way to a working, deployed system.
 
 Currently looking toward graduate study in Machine Learning / AI.
