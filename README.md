@@ -19,7 +19,7 @@ Currently looking toward graduate study in Data Science and Artificial Intellige
 
 | Project | What it is |
 |---|---|
-| [**xai-explorer**](https://github.com/remzije-sulejmanoska/xai-explorer) | Diploma thesis project comparing SHAP and LIME on a student-performance model, plus an original Feature Risk Score and Membership Inference Attack simulation to quantify what explanations leak about training data. [Live demo](https://xai-explorer-cuwv.onrender.com) |
+| [**xai-explorer**](https://github.com/remzije-sulejmanoska/xai-explorer) | Diploma thesis project comparing SHAP and LIME on a student-performance model, plus an original Feature Risk Score and membership inference attack simulation to quantify what explanations leak about training data. [Live demo](https://xai-explorer-cuwv.onrender.com) |
 | [**campus-pulse**](https://github.com/remzije-sulejmanoska/campus-pulse) | K-Means clustering, a leakage-free trend classifier (LOO CV), and short-term enrollment forecasting on Macedonian university data. Basis for the WSEAS paper above. |
 | [**agri-system**](https://github.com/remzije-sulejmanoska/AgriSystem) | IoT smart-irrigation platform: ESP32 sensors + PHP/MySQL web app, with a validated hardware prototype. Basis for the SoftCOM 2026 paper above. |
 | [**online-doctor-platform**](https://github.com/remzije-sulejmanoska/online-doctor-platform) | Full-stack telehealth app (symptom checker, doctor booking) built from a formal SE process — feasibility study, UML, Z-notation spec — through to deployed code. [Live demo](https://online-doctor-platform.vercel.app/) |
